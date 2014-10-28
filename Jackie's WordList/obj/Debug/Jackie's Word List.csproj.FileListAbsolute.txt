@@ -1,0 +1,13 @@
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\Jackie's WordList.dll
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\Jackie's WordList.exe.config
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\Jackie's WordList.exe
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\Jackie's WordList.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie's Word List.csprojResolveAssemblyReference.cache
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie_s_Word_List.Editor.resources
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie_s_WordList.Properties.Resources.resources
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie_s_Word_List.WordDatabase.resources
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie's Word List.csproj.GenerateResource.Cache
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie's WordList.exe
+H:\DropBox\Actually Project go here\WordList\Jackie's WordList\obj\Debug\Jackie's WordList.pdb

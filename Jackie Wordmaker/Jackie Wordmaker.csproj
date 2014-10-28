@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8683CA4E-A76A-4424-AF5A-1776655540F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jackie_Wordmaker</RootNamespace>
+    <AssemblyName>Jackie Wordmaker</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>09B3A101B097284888E255CFB3512718D6FCDFFE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Jackie Wordmaker_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Jackie%27s WordList">
+      <HintPath>..\WordList\bin\Debug\Jackie's WordList.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp">
+      <HintPath>..\..\PDFSharp\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\JackieEngine\JackieEngine\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Export.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export.Designer.cs">
+      <DependentUpon>Export.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\FillInTheBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\FillInTheBlank.Designer.cs">
+      <DependentUpon>FillInTheBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\FillInTheBlankTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\FillInTheBlankTest.Designer.cs">
+      <DependentUpon>FillInTheBlankTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\FlashcardTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\FlashcardTest.Designer.cs" />
+    <Compile Include="List Database Form\AddWordToList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List Database Form\AddWordToList.Designer.cs">
+      <DependentUpon>AddWordToList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database Form\EditWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database Form\EditWord.Designer.cs">
+      <DependentUpon>EditWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List Database Form\EditMiniList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List Database Form\EditMiniList.Designer.cs">
+      <DependentUpon>EditMiniList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editor.Designer.cs">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database Form\NewWord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database Form\NewWord.Designer.cs">
+      <DependentUpon>NewWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\Flashcard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\Flashcard.Designer.cs">
+      <DependentUpon>Flashcard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List Database Form\ListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List Database Form\ListForm.Designer.cs">
+      <DependentUpon>ListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\MultipleChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\MultipleChoice.Designer.cs">
+      <DependentUpon>MultipleChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Learn Type\MultipleChoiceTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Learn Type\MultipleChoiceTest.Designer.cs">
+      <DependentUpon>MultipleChoiceTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewList.Designer.cs">
+      <DependentUpon>NewList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List Database Form\NewMiniList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List Database Form\NewMiniList.Designer.cs">
+      <DependentUpon>NewMiniList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreMadeList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Database Form\WordDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database Form\WordDatabase.Designer.cs">
+      <DependentUpon>WordDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database Form\WordBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database Form\WordBank.Designer.cs">
+      <DependentUpon>WordBank.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Database Form\EditWord.resx">
+      <DependentUpon>EditWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editor.resx">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database Form\NewWord.resx">
+      <DependentUpon>NewWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export.resx">
+      <DependentUpon>Export.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Learn Type\FillInTheBlank.resx">
+      <DependentUpon>FillInTheBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Learn Type\FillInTheBlankTest.resx">
+      <DependentUpon>FillInTheBlankTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Learn Type\Flashcard.resx">
+      <DependentUpon>Flashcard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Learn Type\FlashcardTest.resx" />
+    <EmbeddedResource Include="Learn Type\MultipleChoice.resx">
+      <DependentUpon>MultipleChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Learn Type\MultipleChoiceTest.resx">
+      <DependentUpon>MultipleChoiceTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List Database Form\AddWordToList.resx">
+      <DependentUpon>AddWordToList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List Database Form\EditMiniList.resx">
+      <DependentUpon>EditMiniList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List Database Form\ListForm.resx">
+      <DependentUpon>ListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List Database Form\NewMiniList.resx">
+      <DependentUpon>NewMiniList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewList.resx">
+      <DependentUpon>NewList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Database Form\WordDatabase.resx">
+      <DependentUpon>WordDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database Form\WordBank.resx">
+      <DependentUpon>WordBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Jackie Wordmaker_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

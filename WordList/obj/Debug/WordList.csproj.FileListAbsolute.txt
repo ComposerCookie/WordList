@@ -1,0 +1,4 @@
+H:\DropBox\Actually Project go here\WordList\WordList\bin\Debug\Jackie's WordList.dll
+H:\DropBox\Actually Project go here\WordList\WordList\bin\Debug\Jackie's WordList.pdb
+H:\DropBox\Actually Project go here\WordList\WordList\obj\Debug\Jackie's WordList.dll
+H:\DropBox\Actually Project go here\WordList\WordList\obj\Debug\Jackie's WordList.pdb

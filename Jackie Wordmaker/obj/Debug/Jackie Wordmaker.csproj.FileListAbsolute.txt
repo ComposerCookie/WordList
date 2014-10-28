@@ -1,0 +1,125 @@
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Properties.Resources.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.GenerateResource.Cache
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csprojResolveAssemblyReference.cache
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Editor.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordDatabase.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewWord.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditWord.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewList.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.dll
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.pdb
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordBank.resources
+H:\DropBox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Flashcard.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.pdb
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.dll
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.pdb
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csprojResolveAssemblyReference.cache
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditWord.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Editor.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewWord.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Flashcard.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewList.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Properties.Resources.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordDatabase.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordBank.resources
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.GenerateResource.Cache
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.manifest
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.application
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe.manifest
+C:\Users\Jackie Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.application
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.manifest
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.application
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.dll
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csprojResolveAssemblyReference.cache
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditWord.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Editor.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewWord.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Flashcard.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewList.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Properties.Resources.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordDatabase.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordBank.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.GenerateResource.Cache
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe.manifest
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.application
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.ListForm.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewMiniList.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.AddWordToList.resources
+C:\Users\Jackieryder\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+C:\Users\Jackieryder\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
+C:\Users\Jackieryder\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+C:\Users\Jackieryder\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.dll
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.pdb
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.xml
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\de\PdfSharp.resources.dll
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Export.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Learn_Type.FlashcardTest.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoiceTest.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlankTest.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoice.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlank.resources
+F:\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditMiniList.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.manifest
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.application
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie's WordList.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\PdfSharp.xml
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csprojResolveAssemblyReference.cache
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditWord.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Editor.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewWord.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Export.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlank.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlankTest.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Flashcard.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Learn_Type.FlashcardTest.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoice.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoiceTest.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.AddWordToList.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditMiniList.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.ListForm.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewMiniList.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewList.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Properties.Resources.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordDatabase.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordBank.resources
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.GenerateResource.Cache
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe.manifest
+C:\Users\Peter Tran\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.application
+C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
+C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
