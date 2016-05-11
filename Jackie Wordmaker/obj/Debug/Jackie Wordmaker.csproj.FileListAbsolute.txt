@@ -123,3 +123,27 @@ C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\b
 C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
 C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
 C:\Users\Jacqueline\Dropbox\Actually Project go here\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\bin\Debug\Jackie Wordmaker.exe.config
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.ResolveComReference.cache
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.exe
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.pdb
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditWord.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Editor.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewWord.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Export.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlank.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.FillInTheBlankTest.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Flashcard.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Learn_Type.FlashcardTest.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoice.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.MultipleChoiceTest.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.AddWordToList.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.EditMiniList.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.ListForm.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewMiniList.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.NewList.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.Properties.Resources.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordDatabase.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie_Wordmaker.WordBank.resources
+C:\Users\Jacqueline\Dropbox\Github\WordList\Jackie Wordmaker\obj\Debug\Jackie Wordmaker.csproj.GenerateResource.Cache
